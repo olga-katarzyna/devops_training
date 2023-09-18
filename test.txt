@@ -1,3 +1,4 @@
 dodaje
 zmiana 1
 zmiana 2
+zamiana 3
